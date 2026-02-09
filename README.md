@@ -1,5 +1,15 @@
 # DARY Platform
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/CastelDazur/dary-platform?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/CastelDazur/dary-platform?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/CastelDazur/dary-platform?style=for-the-badge&logo=github)
+![License](https://img.shields.io/github/license/CastelDazur/dary-platform?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/CastelDazur/dary-platform?style=for-the-badge&logo=github)
+
+</div>
+
 > **B2B Lead Generation Platform with AI-Generated Personalized Gifts & Viral Referral System**
 
 A full-stack SaaS platform designed to help brands acquire customers through AI-generated personalized gift images with embedded digital rewards and viral referral mechanics.
@@ -200,6 +210,36 @@ The core growth engine that drives user acquisition:
 
 ---
 
+
+## 📸 Screenshots
+
+### 💻 Web Dashboard
+
+<div align="center">
+
+<!-- Add your screenshot URLs here when ready -->
+<!-- Example: -->
+<!-- ![Business Dashboard](URL_TO_YOUR_IMAGE) -->
+<!-- ![Campaign Creation](URL_TO_YOUR_IMAGE) -->
+<!-- ![Analytics](URL_TO_YOUR_IMAGE) -->
+
+**📁 Placeholder:** Screenshots will be added here to showcase the web dashboard, campaign creation wizard, and analytics interface.
+
+</div>
+
+### 📱 Mobile App (Android)
+
+<div align="center">
+
+<!-- Add your screenshot URLs here when ready -->
+<!-- Example: -->
+<!-- ![Mobile Home](URL_TO_YOUR_IMAGE) -->
+<!-- ![Gift Scanning](URL_TO_YOUR_IMAGE) -->
+<!-- ![Rewards](URL_TO_YOUR_IMAGE) -->
+
+**📁 Placeholder:** Screenshots will be added here to showcase the mobile app interface, gift scanning feature, and rewards system.
+
+</div>
 ## 🛠️ Getting Started
 
 ### Prerequisites
