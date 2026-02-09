@@ -310,16 +310,11 @@ Solo-developed the entire platform from concept to production:
 
 ### Mobile Application
 
-![App Screenshot 1](photo_2026-02-09-11-19-16.jpg)
-
-![App Screenshot 2](photo_2026-02-09-11-19-16%20(2).jpg)
-
-![App Screenshot 3](photo_2026-02-09-11-19-16%20(3).jpg)
-
-![App Screenshot 4](photo_2026-02-09-11-19-16%20(4).jpg)
-
-![App Screenshot 5](photo_2026-02-09-11-19-16%20(5).jpg)
-
+![App Screenshot 1](photo_2026-02-09_11-19-16.jpg)
+![App Screenshot 2](photo_2026-02-09_11-19-16%20(2).jpg)
+![App Screenshot 3](photo_2026-02-09_11-19-16%20(3).jpg)
+![App Screenshot 4](photo_2026-02-09_11-19-16%20(4).jpg)
+![App Screenshot 5](photo_2026-02-09_11-19-16%20(5).jpg)
 
 ## 📞 Contact
 
