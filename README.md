@@ -322,6 +322,54 @@ Solo-developed the entire platform from concept to production:
 - **LinkedIn:** [linkedin.com/in/casteldazur](https://linkedin.com/in/casteldazur)
 - **Location:** Nice, France
 
+
+## 🗺️ Roadmap
+
+### Q1 2026 (Current)
+- [x] Core platform architecture complete
+- [x] AI image generation with FLUX 1.1-pro integrated
+- [x] pHash-based token extraction system operational
+- [x] Stripe payment integration live
+- [x] React Native Android app published on Google Play
+- [ ] iOS App Store submission
+- [ ] Beta launch with first 10 brand partners
+
+### Q2 2026
+- [ ] DARY Universal perpetual referral system launch
+- [ ] Advanced analytics dashboard v2 with cohort analysis
+- [ ] White-label solution for enterprise clients
+- [ ] Multi-currency DAR token economy expansion
+- [ ] Integration with major European CRM platforms
+- [ ] AI gift personalization based on user behavior data
+
+### Q3 2026
+- [ ] DARY API public release for third-party integrations
+- [ ] Brand Marketplace — brands can discover and hire each other's audiences
+- [ ] Automated A/B testing for campaign creatives
+- [ ] Predictive lead scoring with ML models
+- [ ] Expansion to German and Benelux markets
+
+### Q4 2026
+- [ ] DARY Enterprise tier with custom SLA
+- [ ] Blockchain-verified DAR token ledger
+- [ ] Partner network: 100+ active brand campaigns
+- [ ] Series A fundraising preparation
+
+---
+
+## 📈 Performance Metrics
+
+| Metric | Current | Target (Q4 2026) |
+|--------|---------|------------------|
+| API Response Time | < 200ms | < 100ms |
+| Image Processing | ~2s | < 1s |
+| Referral Viral Coefficient | 2.1x | 3.0x |
+| Platform Uptime | 99.5% | 99.9% |
+| Concurrent Users | 500 | 5,000 |
+
+---
+
+*Last updated: February 2026*
 ---
 
 *Built with passion as a solo project from idea to production* 🚀
