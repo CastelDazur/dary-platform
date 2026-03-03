@@ -1,5 +1,7 @@
 # DARY Platform
 
+> **Note:** This repository contains documentation, architecture specs, and partial service modules. The full application source code is maintained in a private repository.
+
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/CastelDazur/dary-platform?style=for-the-badge&logo=github)
